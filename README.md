@@ -249,7 +249,10 @@ This is my home page in GitHub, and I will keep updating my code works here.<br/
 - 视频
   - 动漫：[樱花动漫](http://www.imomoe.la/)、[233动漫网](https://www.dm233.cc/)、[樱花风车动漫网](https://www.8666.tv/index.php)
   - 影视：[天狼影视](https://m.ttll.tv/)、[电影天堂](https://www.dytt8.net/index.htm)
-  - 提取：[Twitter Video Downloader](https://twittervideodownloader.com/)
+  - 提取：[Tiktok Video Downloader](https://tiktokio.cam/)
+  - 提取：[Tiktokio - Tiktok Downloader](https://stiktokio.cam/)
+  - 提取：[Tiktok Downloader](https://tiktokio.one/)
+
 - 网络
   - 测速：[Speedtest](https://www.speedtest.net/)、[测速网](https://www.speedtest.cn/)
 - 手机
